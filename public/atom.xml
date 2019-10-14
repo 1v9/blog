@@ -47,7 +47,7 @@
     <summary type="html">
     
       &lt;div class=&quot;note info&quot;&gt;
-            &lt;p&gt;&lt;img src=&quot;https://v2.jinrishici.com/one.svg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img alt data-src=&quot;https://v2.jinrishici.com/one.svg&quot;&gt;&lt;/p&gt;
           &lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.jinrishici.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;今日诗词&lt;/a&gt; 的调用并不复杂，之前使用的 &lt;code&gt;footer.custom_text&lt;/code&gt; 选项由于 &lt;a href=&quot;https://github.com/theme-next/hexo-theme-next/pull/868&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;theme_inject&lt;/a&gt; 的合并早晚会废弃，所以对本文进行一次更新，另外将标签转移到了正文结束的位置。
