@@ -1,0 +1,36 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+
+#- task: UseNode@1
+#  inputs:
+#    checkLatest: true
+#  displayName: 'Install Node.js'
+
+- task: NodeTool@0 
+  inputs:
+    versionSpec: '12.x'
+  displayName: 'Install Node.js'
+
+- task: Npm@1
+  inputs:
+    command: 'custom'
+    customCommand: 'i -g ipfs-deploy'
+  displayName: 'Install ipfs-deploy'
+
+- task: Bash@3
+  env:
+    IPFS_DEPLOY_PINATA__API_KEY: $(PINATA__API_KEY)
+    IPFS_DEPLOY_PINATA__SECRET_API_KEY: $(PINATA__SECRET_API_KEY)
+    IPFS_DEPLOY_CLOUDFLARE__API_EMAIL: $(CLOUDFLARE__API_EMAIL)
+    IPFS_DEPLOY_CLOUDFLARE__API_KEY: $(CLOUDFLARE__API_KEY)
+    IPFS_DEPLOY_CLOUDFLARE__ZONE: $(CLOUDFLARE__ZONE)
+    IPFS_DEPLOY_CLOUDFLARE__RECORD: $(CLOUDFLARE__RECORD)
+  inputs:
+    targetType: 'inline'
+    script: 'ipd -p pinata -u pinata -d cloudflare -C -O'
+  displayName: 'Deploy to IPFS'
