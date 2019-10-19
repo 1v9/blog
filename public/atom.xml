@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://1v9.im/"/>
-  <updated>2019-08-25T09:42:04.074Z</updated>
+  <updated>2019-08-25T09:42:04.000Z</updated>
   <id>https://1v9.im/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://1v9.im/post/windows-terminal-settings.html"/>
     <id>https://1v9.im/post/windows-terminal-settings.html</id>
     <published>2019-08-05T18:13:16.000Z</published>
-    <updated>2019-08-25T09:42:04.074Z</updated>
+    <updated>2019-08-25T09:42:04.000Z</updated>
     
     <summary type="html">
     
@@ -42,15 +42,15 @@
     <link href="https://1v9.im/post/add-today-poetry-for-theme-next.html"/>
     <id>https://1v9.im/post/add-today-poetry-for-theme-next.html</id>
     <published>2019-03-26T08:38:24.000Z</published>
-    <updated>2019-08-25T03:31:19.692Z</updated>
+    <updated>2019-08-25T03:31:19.000Z</updated>
     
     <summary type="html">
     
       &lt;div class=&quot;note info&quot;&gt;
-            &lt;p&gt;&lt;img src=&quot;https://v2.jinrishici.com/one.svg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;https://v2.jinrishici.com/one.svg&quot; alt=&quot;今日诗词&quot;&gt;&lt;/p&gt;
           &lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.jinrishici.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;今日诗词&lt;/a&gt; 的调用并不复杂，之前使用的 &lt;code&gt;footer.custom_text&lt;/code&gt; 选项由于 &lt;a href=&quot;https://github.com/theme-next/hexo-theme-next/pull/868&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;theme_inject&lt;/a&gt; 的合并早晚会废弃，所以对本文进行一次更新，另外将标签转移到了正文结束的位置。
+&lt;p&gt;&lt;a href=&quot;https://www.jinrishici.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;今日诗词&lt;/a&gt;的调用并不复杂，之前使用的 &lt;code&gt;footer.custom_text&lt;/code&gt; 选项由于 &lt;a href=&quot;https://github.com/theme-next/hexo-theme-next/pull/868&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;theme_inject&lt;/a&gt; 的合并已经废弃，所以对本文进行一次更新，另外将标签转移到了正文结束的位置。
     
     </summary>
     
@@ -58,9 +58,9 @@
       <category term="NexT" scheme="https://1v9.im/categories/NexT/"/>
     
     
-      <category term="NexT" scheme="https://1v9.im/tags/NexT/"/>
-    
       <category term="Hexo" scheme="https://1v9.im/tags/Hexo/"/>
+    
+      <category term="Next" scheme="https://1v9.im/tags/Next/"/>
     
   </entry>
   
@@ -69,11 +69,11 @@
     <link href="https://1v9.im/post/pixiv-manga-download-script.html"/>
     <id>https://1v9.im/post/pixiv-manga-download-script.html</id>
     <published>2019-02-22T21:10:45.000Z</published>
-    <updated>2019-08-25T02:33:54.182Z</updated>
+    <updated>2019-08-25T02:33:54.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;这是我编写的一个用来下载 pixiv 漫画的 Bash 脚本，需要输入漫画图片的准确数量以及第一张漫画图片的完整地址，脚本主要借助 &lt;a href=&quot;https://github.com/axel-download-accelerator/axel&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Axel&lt;/a&gt; 与 &lt;a href=&quot;https://www.perl.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Perl&lt;/a&gt; 实现，我会放出脚本以及演示过程。
+      &lt;p&gt;这是我编写的一个低智能的用来下载 pixiv 漫画的 Bash 脚本，需要输入漫画图片的准确数量以及第一张漫画图片的完整地址，依赖 &lt;a href=&quot;https://github.com/axel-download-accelerator/axel&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Axel&lt;/a&gt; 与 &lt;a href=&quot;https://www.perl.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Perl&lt;/a&gt;。
     
     </summary>
     
@@ -83,7 +83,7 @@
     
       <category term="Bash" scheme="https://1v9.im/tags/Bash/"/>
     
-      <category term="pixiv" scheme="https://1v9.im/tags/pixiv/"/>
+      <category term="Pixiv" scheme="https://1v9.im/tags/Pixiv/"/>
     
   </entry>
   
@@ -92,7 +92,7 @@
     <link href="https://1v9.im/post/compiling-and-installing-nginx.html"/>
     <id>https://1v9.im/post/compiling-and-installing-nginx.html</id>
     <published>2019-02-13T06:51:21.000Z</published>
-    <updated>2019-09-22T01:25:35.289Z</updated>
+    <updated>2019-09-22T01:25:35.000Z</updated>
     
     <summary type="html">
     
@@ -117,7 +117,7 @@
     <link href="https://1v9.im/post/block-malicious-access-to-nginx.html"/>
     <id>https://1v9.im/post/block-malicious-access-to-nginx.html</id>
     <published>2019-02-04T05:29:36.000Z</published>
-    <updated>2019-03-09T11:32:27.452Z</updated>
+    <updated>2019-03-09T11:32:27.000Z</updated>
     
     <summary type="html">
     
@@ -139,10 +139,10 @@
   
   <entry>
     <title>使用 Gulp 精简 Hexo</title>
-    <link href="https://1v9.im/post/use-gulp-to-minify-hexo.html"/>
-    <id>https://1v9.im/post/use-gulp-to-minify-hexo.html</id>
+    <link href="https://1v9.im/post/null.html"/>
+    <id>https://1v9.im/post/null.html</id>
     <published>2019-01-27T06:00:13.000Z</published>
-    <updated>2019-08-22T03:26:25.411Z</updated>
+    <updated>2019-08-22T03:26:25.000Z</updated>
     
     <summary type="html">
     
@@ -163,7 +163,7 @@
     
       <category term="Hexo" scheme="https://1v9.im/tags/Hexo/"/>
     
-      <category term="gulp" scheme="https://1v9.im/tags/gulp/"/>
+      <category term="Gulp" scheme="https://1v9.im/tags/Gulp/"/>
     
   </entry>
   
@@ -172,7 +172,7 @@
     <link href="https://1v9.im/post/backup-files-to-github-private-repo.html"/>
     <id>https://1v9.im/post/backup-files-to-github-private-repo.html</id>
     <published>2019-01-25T01:12:31.000Z</published>
-    <updated>2019-10-03T21:56:33.154Z</updated>
+    <updated>2019-10-03T21:56:33.000Z</updated>
     
     <summary type="html">
     
@@ -193,7 +193,7 @@
     <link href="https://1v9.im/post/acme.sh-and-letsencrypt.html"/>
     <id>https://1v9.im/post/acme.sh-and-letsencrypt.html</id>
     <published>2019-01-24T14:12:34.000Z</published>
-    <updated>2019-09-24T07:45:20.864Z</updated>
+    <updated>2019-09-24T07:45:20.000Z</updated>
     
     <summary type="html">
     
@@ -214,7 +214,7 @@
     <link href="https://1v9.im/post/debian-install-haproxy.html"/>
     <id>https://1v9.im/post/debian-install-haproxy.html</id>
     <published>2019-01-24T11:21:30.000Z</published>
-    <updated>2019-08-18T20:34:01.537Z</updated>
+    <updated>2019-08-18T20:34:01.000Z</updated>
     
     <summary type="html">
     
