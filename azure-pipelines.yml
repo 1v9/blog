@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'ubuntu-latest'
 
 steps:
 
@@ -32,5 +32,5 @@ steps:
     IPFS_DEPLOY_CLOUDFLARE__RECORD: $(CLOUDFLARE__RECORD)
   inputs:
     targetType: 'inline'
-    script: 'ipd -p pinata -u pinata -d cloudflare -C -O'
+    script: 'ipd -p pinata public -u pinata -d cloudflare -C -O'
   displayName: 'Deploy to IPFS'
