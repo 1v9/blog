@@ -1,234 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>1v9&#39;s Blog</title>
-  <icon>https://1v9.im/icon.png</icon>
+  <icon>https://1v9.io/icon.png</icon>
   <subtitle>The magic ends here</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://1v9.io/atom.xml" rel="self"/>
   
-  <link href="https://1v9.im/"/>
-  <updated>2019-08-25T09:42:04.000Z</updated>
-  <id>https://1v9.im/</id>
+  <link href="https://1v9.io/"/>
+  <updated>2020-10-02T15:15:27.000Z</updated>
+  <id>https://1v9.io/</id>
   
   <author>
     <name>1v9</name>
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Windows Terminal 设置</title>
-    <link href="https://1v9.im/post/windows-terminal-settings.html"/>
-    <id>https://1v9.im/post/windows-terminal-settings.html</id>
+    <link href="https://1v9.io/post/windows-terminal-settings.html"/>
+    <id>https://1v9.io/post/windows-terminal-settings.html</id>
     <published>2019-08-05T18:13:16.000Z</published>
-    <updated>2019-08-25T09:42:04.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/terminal&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Windows Terminal&lt;/a&gt; 可以从 &lt;a href=&quot;https://www.microsoft.com/store/apps/9n0dx20hk701&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Microsoft Store&lt;/a&gt; 下载安装。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="Windows" scheme="https://1v9.im/categories/Windows/"/>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/terminal&quot;&gt;Windows Terminal&lt;/a&gt; 可以从 &lt;a href=&quot;https://www.microsoft.com/store/apps/9n0dx20hk701&quot;&gt;Microsoft Store&lt;/a&gt; 下载安装。</summary>
     
     
-      <category term="Windows" scheme="https://1v9.im/tags/Windows/"/>
+    
+    <category term="Windows" scheme="https://1v9.io/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://1v9.io/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>NexT 添加今日诗词</title>
-    <link href="https://1v9.im/post/add-today-poetry-for-theme-next.html"/>
-    <id>https://1v9.im/post/add-today-poetry-for-theme-next.html</id>
+    <link href="https://1v9.io/post/add-today-poetry-for-theme-next.html"/>
+    <id>https://1v9.io/post/add-today-poetry-for-theme-next.html</id>
     <published>2019-03-26T08:38:24.000Z</published>
-    <updated>2019-08-25T03:31:19.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;div class=&quot;note info&quot;&gt;
-            &lt;p&gt;&lt;img src=&quot;https://v2.jinrishici.com/one.svg&quot; alt=&quot;今日诗词&quot;&gt;&lt;/p&gt;
-          &lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.jinrishici.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;今日诗词&lt;/a&gt;的调用并不复杂，之前使用的 &lt;code&gt;footer.custom_text&lt;/code&gt; 选项由于 &lt;a href=&quot;https://github.com/theme-next/hexo-theme-next/pull/868&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;theme_inject&lt;/a&gt; 的合并已经废弃，所以对本文进行一次更新，另外将标签转移到了正文结束的位置。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="NexT" scheme="https://1v9.im/categories/NexT/"/>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.jinrishici.com/&quot;&gt;今日诗词&lt;/a&gt;的调用并不复杂，之前使用的 &lt;code&gt;footer.custom_text&lt;/code&gt; 选项由于 &lt;a href=&quot;https://github.com/theme-next/hexo-theme-next/pull/868&quot;&gt;theme_inject&lt;/a&gt; 的合并已经废弃，所以对本文进行一次更新，另外将标签转移到了正文结束的位置。</summary>
     
     
-      <category term="Hexo" scheme="https://1v9.im/tags/Hexo/"/>
     
-      <category term="Next" scheme="https://1v9.im/tags/Next/"/>
+    <category term="NexT" scheme="https://1v9.io/categories/NexT/"/>
+    
+    
+    <category term="Hexo" scheme="https://1v9.io/tags/Hexo/"/>
+    
+    <category term="Next" scheme="https://1v9.io/tags/Next/"/>
     
   </entry>
   
   <entry>
     <title>Pixiv 漫画下载脚本</title>
-    <link href="https://1v9.im/post/pixiv-manga-download-script.html"/>
-    <id>https://1v9.im/post/pixiv-manga-download-script.html</id>
+    <link href="https://1v9.io/post/pixiv-manga-download-script.html"/>
+    <id>https://1v9.io/post/pixiv-manga-download-script.html</id>
     <published>2019-02-22T21:10:45.000Z</published>
-    <updated>2019-08-25T02:33:54.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这是我编写的一个低智能的用来下载 pixiv 漫画的 Bash 脚本，需要输入漫画图片的准确数量以及第一张漫画图片的完整地址，依赖 &lt;a href=&quot;https://github.com/axel-download-accelerator/axel&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Axel&lt;/a&gt; 与 &lt;a href=&quot;https://www.perl.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Perl&lt;/a&gt;。
-    
-    </summary>
+    <updated>2020-10-05T07:25:20.000Z</updated>
     
     
-      <category term="Bash" scheme="https://1v9.im/categories/Bash/"/>
+    <summary type="html">&lt;p&gt;这是我编写的一个低智能的用来下载 pixiv 漫画的 Bash 脚本，需要输入漫画图片的准确数量以及第一张漫画图片的完整地址，依赖 &lt;a href=&quot;https://github.com/axel-download-accelerator/axel&quot;&gt;Axel&lt;/a&gt; 与 &lt;a href=&quot;https://www.perl.org/&quot;&gt;Perl&lt;/a&gt;。</summary>
     
     
-      <category term="Bash" scheme="https://1v9.im/tags/Bash/"/>
     
-      <category term="Pixiv" scheme="https://1v9.im/tags/Pixiv/"/>
+    <category term="Bash" scheme="https://1v9.io/categories/Bash/"/>
+    
+    
+    <category term="Bash" scheme="https://1v9.io/tags/Bash/"/>
+    
+    <category term="Pixiv" scheme="https://1v9.io/tags/Pixiv/"/>
     
   </entry>
   
   <entry>
     <title>编译安装 NGINX</title>
-    <link href="https://1v9.im/post/compiling-and-installing-nginx.html"/>
-    <id>https://1v9.im/post/compiling-and-installing-nginx.html</id>
+    <link href="https://1v9.io/post/compiling-and-installing-nginx.html"/>
+    <id>https://1v9.io/post/compiling-and-installing-nginx.html</id>
     <published>2019-02-13T06:51:21.000Z</published>
-    <updated>2019-09-22T01:25:35.000Z</updated>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
-    <summary type="html">
     
-      &lt;div class=&quot;note info&quot;&gt;
-            &lt;p&gt;本文翻译修改自 &lt;a href=&quot;https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#compiling-and-installing-from-source&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;NGINX Docs | Installing NGINX Open Source&lt;/a&gt;.&lt;/p&gt;
-          &lt;/div&gt;
+    <summary type="html">&lt;div class=&quot;note info&quot;&gt;&lt;p&gt;本文翻译修改自 &lt;a href=&quot;https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#compiling-and-installing-from-source&quot;&gt;NGINX Docs | Installing NGINX Open Source&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;相对于预构建软件包，从源代码编译 NGINX 的开源版本提供了更多的灵活性，你可以从 NGINX 或者第三方添加特定模块，并应用最新的安全补丁。
-    
-    </summary>
+&lt;p&gt;相对于预构建软件包，从源代码编译 NGINX 的开源版本提供了更多的灵活性，你可以从 NGINX 或者第三方添加特定模块，并应用最新的安全补丁。</summary>
     
     
-      <category term="Nginx" scheme="https://1v9.im/categories/Nginx/"/>
+    
+    <category term="Nginx" scheme="https://1v9.io/categories/Nginx/"/>
     
     
-      <category term="Nginx" scheme="https://1v9.im/tags/Nginx/"/>
+    <category term="Nginx" scheme="https://1v9.io/tags/Nginx/"/>
     
   </entry>
   
   <entry>
     <title>阻止针对 NGINX 的恶意访问</title>
-    <link href="https://1v9.im/post/block-malicious-access-to-nginx.html"/>
-    <id>https://1v9.im/post/block-malicious-access-to-nginx.html</id>
+    <link href="https://1v9.io/post/block-malicious-access-to-nginx.html"/>
+    <id>https://1v9.io/post/block-malicious-access-to-nginx.html</id>
     <published>2019-02-04T05:29:36.000Z</published>
-    <updated>2019-03-09T11:32:27.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;为了对付爬虫以及各种攻击，起初我选择自己编写 Bash 脚本定时监控 Nginx 日志。&lt;br&gt;问题是对 Nginx 不管不顾可能导致恶意访问在被封禁之前已经得逞。&lt;br&gt;另外写正则并不是一个愉快的过程，我的目的是识别出恶意访问，然后阻止这些请求并封禁 IP。&lt;br&gt;经过一段时间的摸索，关键词就是 &lt;a href=&quot;https://httpstatuses.com/444&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;444&lt;/a&gt; 以及 &lt;a href=&quot;https://www.fail2ban.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Fail2ban&lt;/a&gt;。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="Nginx" scheme="https://1v9.im/categories/Nginx/"/>
+    <summary type="html">&lt;p&gt;为了对付爬虫以及各种攻击，起初我选择自己编写 Bash 脚本定时监控 Nginx 日志。&lt;br&gt;问题是对 Nginx 不管不顾可能导致恶意访问在被封禁之前已经得逞。&lt;br&gt;另外写正则并不是一个愉快的过程，我的目的是识别出恶意访问，然后阻止这些请求并封禁 IP。&lt;br&gt;经过一段时间的摸索，关键词就是 &lt;a href=&quot;https://httpstatuses.com/444&quot;&gt;444&lt;/a&gt; 以及 &lt;a href=&quot;https://www.fail2ban.org/&quot;&gt;Fail2ban&lt;/a&gt;。</summary>
     
     
-      <category term="Nginx" scheme="https://1v9.im/tags/Nginx/"/>
     
-      <category term="444" scheme="https://1v9.im/tags/444/"/>
+    <category term="Nginx" scheme="https://1v9.io/categories/Nginx/"/>
     
-      <category term="Fail2ban" scheme="https://1v9.im/tags/Fail2ban/"/>
+    
+    <category term="Nginx" scheme="https://1v9.io/tags/Nginx/"/>
+    
+    <category term="444" scheme="https://1v9.io/tags/444/"/>
+    
+    <category term="Fail2ban" scheme="https://1v9.io/tags/Fail2ban/"/>
     
   </entry>
   
   <entry>
     <title>使用 Gulp 精简 Hexo</title>
-    <link href="https://1v9.im/post/use-gulp-to-minify-hexo.html"/>
-    <id>https://1v9.im/post/use-gulp-to-minify-hexo.html</id>
+    <link href="https://1v9.io/post/use-gulp-to-minify-hexo.html"/>
+    <id>https://1v9.io/post/use-gulp-to-minify-hexo.html</id>
     <published>2019-01-27T06:00:13.000Z</published>
-    <updated>2019-08-22T03:26:25.000Z</updated>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
-    <summary type="html">
     
-      &lt;div class=&quot;note danger&quot;&gt;
-            &lt;p&gt;精简可能导致本地预览与最终发布的版本有所差异甚至产生 BUG，所以开启个别选项需要慎重。&lt;/p&gt;
-          &lt;/div&gt;
+    <summary type="html">&lt;div class=&quot;note danger&quot;&gt;&lt;p&gt;精简可能导致本地预览与最终发布的版本有所差异甚至产生 BUG，所以开启个别选项需要慎重。&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;为了更好地应对 ES6 语法，本博客已弃用 Babel 与 Uglify。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://gulpjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;gulp&lt;/a&gt; 是基于流的自动化构建工具，使用 gulp 以及 gulp 插件我们可以达成很多目的，比如精简 Hexo 项目。
-    
-    </summary>
+&lt;p&gt;&lt;a href=&quot;https://gulpjs.com/&quot;&gt;gulp&lt;/a&gt; 是基于流的自动化构建工具，使用 gulp 以及 gulp 插件我们可以达成很多目的，比如精简 Hexo 项目。</summary>
     
     
-      <category term="Hexo" scheme="https://1v9.im/categories/Hexo/"/>
+    
+    <category term="Hexo" scheme="https://1v9.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="https://1v9.im/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://1v9.io/tags/Hexo/"/>
     
-      <category term="Gulp" scheme="https://1v9.im/tags/Gulp/"/>
+    <category term="Gulp" scheme="https://1v9.io/tags/Gulp/"/>
     
   </entry>
   
   <entry>
     <title>备份文件至 Github 私有仓库</title>
-    <link href="https://1v9.im/post/backup-files-to-github-private-repo.html"/>
-    <id>https://1v9.im/post/backup-files-to-github-private-repo.html</id>
+    <link href="https://1v9.io/post/backup-files-to-github-private-repo.html"/>
+    <id>https://1v9.io/post/backup-files-to-github-private-repo.html</id>
     <published>2019-01-25T01:12:31.000Z</published>
-    <updated>2019-10-03T21:56:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://github.blog/2019-01-07-new-year-new-github/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;喜大普奔&lt;/a&gt;，GitHub Free 可以使用无限的私有仓库。&lt;br&gt;本文将介绍通过命令行创建远程私有仓库并将本地文件推送至远程仓库的过程。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="Github" scheme="https://1v9.im/categories/Github/"/>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.blog/2019-01-07-new-year-new-github/&quot;&gt;喜大普奔&lt;/a&gt;，GitHub Free 可以使用无限的私有仓库。&lt;br&gt;本文将介绍通过命令行创建远程私有仓库并将本地文件推送至远程仓库的过程。</summary>
     
     
-      <category term="Github" scheme="https://1v9.im/tags/Github/"/>
+    
+    <category term="Github" scheme="https://1v9.io/categories/Github/"/>
+    
+    
+    <category term="Github" scheme="https://1v9.io/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>acme.sh 与 Letsencrypt</title>
-    <link href="https://1v9.im/post/acme.sh-and-letsencrypt.html"/>
-    <id>https://1v9.im/post/acme.sh-and-letsencrypt.html</id>
+    <link href="https://1v9.io/post/acme.sh-and-letsencrypt.html"/>
+    <id>https://1v9.io/post/acme.sh-and-letsencrypt.html</id>
     <published>2019-01-24T14:12:34.000Z</published>
-    <updated>2019-09-24T07:45:20.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://github.com/Neilpang/acme.sh&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;acme.sh&lt;/a&gt; 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书。&lt;br&gt;我将分享我个人使用 acme.sh 的 DNS API 模式生成通配符证书并安装至 Nginx 的全过程。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="HTTPS" scheme="https://1v9.im/categories/HTTPS/"/>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/Neilpang/acme.sh&quot;&gt;acme.sh&lt;/a&gt; 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书。&lt;br&gt;我将分享我个人使用 acme.sh 的 DNS API 模式生成通配符证书并安装至 Nginx 的全过程。</summary>
     
     
-      <category term="HTTPS" scheme="https://1v9.im/tags/HTTPS/"/>
+    
+    <category term="HTTPS" scheme="https://1v9.io/categories/HTTPS/"/>
+    
+    
+    <category term="HTTPS" scheme="https://1v9.io/tags/HTTPS/"/>
     
   </entry>
   
   <entry>
     <title>Debian 安装 HAProxy</title>
-    <link href="https://1v9.im/post/debian-install-haproxy.html"/>
-    <id>https://1v9.im/post/debian-install-haproxy.html</id>
+    <link href="https://1v9.io/post/debian-install-haproxy.html"/>
+    <id>https://1v9.io/post/debian-install-haproxy.html</id>
     <published>2019-01-24T11:21:30.000Z</published>
-    <updated>2019-08-18T20:34:01.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://www.haproxy.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HAProxy&lt;/a&gt; 是一款老而弥坚的 TCP/HTTP 负载均衡，开发相当活跃。&lt;br&gt;本文将简单介绍 Debian 系统安装 HAProxy 的两种方式，即包管理与编译安装。&lt;br&gt;Ubuntu 用户也可以参考，没什么区别。
-    
-    </summary>
+    <updated>2020-10-02T15:15:27.000Z</updated>
     
     
-      <category term="HAProxy" scheme="https://1v9.im/categories/HAProxy/"/>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.haproxy.org/&quot;&gt;HAProxy&lt;/a&gt; 是一款老而弥坚的 TCP/HTTP 负载均衡，开发相当活跃。&lt;br&gt;本文将简单介绍 Debian 系统安装 HAProxy 的两种方式，即包管理与编译安装。&lt;br&gt;Ubuntu 用户也可以参考，没什么区别。</summary>
     
     
-      <category term="Debian" scheme="https://1v9.im/tags/Debian/"/>
     
-      <category term="TLS 1.3" scheme="https://1v9.im/tags/TLS-1-3/"/>
+    <category term="HAProxy" scheme="https://1v9.io/categories/HAProxy/"/>
+    
+    
+    <category term="Debian" scheme="https://1v9.io/tags/Debian/"/>
+    
+    <category term="TLS 1.3" scheme="https://1v9.io/tags/TLS-1-3/"/>
     
   </entry>
   
